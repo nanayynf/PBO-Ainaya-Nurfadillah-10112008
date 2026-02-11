@@ -1,4 +1,4 @@
-<?phpgit checkout -b master
+<?php
 
 
 class Belanja
